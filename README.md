@@ -3,7 +3,7 @@
 [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=plastic)](https://android-arsenal.com/api?level=19)
 
 
-![](output.gif){:height="400px"}
+![](output.gif | width=200px)
 
 ## Prerequisites
 
